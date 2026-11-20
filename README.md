@@ -1,11 +1,3 @@
----
-title: SPPU AI Exam Assistant
-emoji: 🎓
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
 
 # SPPU AI Exam Assistant
 
